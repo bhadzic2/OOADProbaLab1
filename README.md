@@ -9,3 +9,4 @@ ha hu
 Belmaa je tu, paralelno je radilaa <3
 
 Hadija probava
+ide ide patak na daleki put
