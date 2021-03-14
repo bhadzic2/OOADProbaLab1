@@ -7,3 +7,5 @@ ha hu
 *Pikacu je najbolji pokemon*
 
 Belmaa je tu, paralelno je radilaa <3
+
+Hadija probava
