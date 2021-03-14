@@ -2,4 +2,8 @@
  probni repozitorij za lab 1
 ha hu
 
-Belmaa je tu
+
+**Ovo je Hadija pisala**
+*Pikacu je najbolji pokemon*
+
+Belmaa je tu, paralelno je radilaa <3
